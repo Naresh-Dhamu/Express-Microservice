@@ -1,0 +1,10 @@
+{
+    "module": "Auth Service",
+    "name": "Auth Service",
+    "path": "/api/v1/auth",
+    "description": "Auth module for the application related to authentication and user management",
+    "author": "Naresh Dhamu",
+    "version": "1.0.0",
+    "createdAt": "Thu 10 Oct 2024 at 9:02 PM",
+    "updatedAt": "Thu 10 Oct 2024 at 9:02 PM"
+}
