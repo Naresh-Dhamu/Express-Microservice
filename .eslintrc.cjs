@@ -1,6 +1,10 @@
 /* eslint-env node */
 module.exports = {
-    extends: ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier"],
+    extends: [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
+        "prettier",
+    ],
     // extends: ["eslint:recommended", "plugin:@typescript-eslint/recommended-type-checked"],
     parser: "@typescript-eslint/parser",
     plugins: ["@typescript-eslint"],
@@ -10,6 +14,6 @@ module.exports = {
     // },
     root: true,
     rules: {
-      "no-console": "error",
+        "no-console": "error",
     },
-  };
+};
