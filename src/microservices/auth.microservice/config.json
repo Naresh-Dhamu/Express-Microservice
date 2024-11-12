@@ -1,7 +1,7 @@
 {
     "module": "Auth Service",
     "name": "Auth Service",
-    "path": "/api/v1/auth",
+    "path": "/api/auth",
     "description": "Auth module for the application related to authentication and user management",
     "author": "Naresh Dhamu",
     "version": "1.0.0",
